@@ -1,0 +1,1 @@
+select  mh_reg_wid ,property_address  from lf_mh_reg where length(property_address)  < 1024
